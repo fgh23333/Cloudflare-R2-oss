@@ -13,7 +13,7 @@
     <button class="upload-button circle" @click="showUploadPopup = true">
       <img
         style="filter: invert(100%)"
-        src="./upload.png"
+        src="https://img.alni.eu.org/upload.png"
         alt="Upload"
         width="36"
         height="36"
@@ -55,7 +55,7 @@
         >
           <div class="file-icon">
             <img
-              src="./folder.png"
+              src="https://img.alni.eu.org/folder.png"
               width="36"
               height="36"
               alt="Folder"
@@ -76,7 +76,7 @@
         >
           <div class="file-icon">
             <img
-              src="./folder.png"
+              src="https://img.alni.eu.org/folder.png"
               width="36"
               height="36"
               alt="Folder"
